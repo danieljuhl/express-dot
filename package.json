@@ -1,5 +1,5 @@
 {
-  "name": "express3-dot",
+  "name": "express-dot",
   "description": "doT stub for Express 3.x with caching and layout support",
   "keywords": [
     "template",
@@ -13,20 +13,31 @@
   "version": "0.1.4",
   "main": "express-dot.js",
   "dependencies": {
-    "dot": ">= 0.2.6",
-    "async": ">= 0.1.22"
+    "dot": ">= 1.0.1",
+    "async": ">= 0.2.5"
   },
-  "homepage": "http://github.com/wuchengwei/express-dot",
+  "homepage": "http://github.com/danieljuhl/express-dot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wuchengwei/express-dot.git"
+    "url": "git://github.com/danieljuhl/express-dot.git"
   },
   "author": {
-    "name": "Chevy Woods",
-    "email": "meegodevelop@gmail.com"
+    "name": "Charlie Stigler",
+    "email": "charlie@charliestigler.com"
   },
+  "contributors": [
+    {
+      "name": "Daniel Juhl",
+      "email": "danieljuhl@gmail.com",
+      "url": "http://danieljuhl.com"
+    },
+    {
+      "name": "Chevy Woods",
+      "email": "meegodevelop@gmail.com"
+    }
+  ],
   "engines": [
     "node >=0.2.6"
   ],
-  "_id": "express3-dot@0.1.4"
+  "_id": "express-dot@0.1.4"
 }
